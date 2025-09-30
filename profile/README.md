@@ -1,12 +1,11 @@
 # DigitalBrew Studios
 
-We Brew Software (we make software)
+We Brew Software solutions (we make software solutions) 
 
 
 # About us 
 
-We have been founded and nearly starting a company to support our products since 2025.
-
+Welcome to DigitalBrewStudios! We specialize in crafting innovative software solutions, modifying games to enhance user experience, and providing reliable hosting services. 
 
 
 # Our Products 
